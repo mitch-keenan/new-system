@@ -16,6 +16,9 @@ A collection of resources I use for getting a new system set-up
     * [the fuck](https://formulae.brew.sh/formula/thefuck)
     * [jq](https://formulae.brew.sh/formula/jq)
     * [python & pip](https://formulae.brew.sh/formula/python@3.9#default)
+    * [spotifyd](https://spotifyd.github.io/spotifyd/installation/MacOS.html)
+        * run `brew services start spotifyd` after
+    * [spotify-tui](https://github.com/Rigellute/spotify-tui#connecting-to-spotifys-api)
 * [go version manager](https://github.com/moovweb/gvm)
 * [desk controller](https://github.com/rhyst/idasen-controller)
 

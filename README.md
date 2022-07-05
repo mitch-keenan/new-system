@@ -15,6 +15,7 @@ A collection of resources I use for getting a new system set-up
     * [nvm](https://formulae.brew.sh/formula/nvm)
     * [the fuck](https://formulae.brew.sh/formula/thefuck)
     * [jq](https://formulae.brew.sh/formula/jq)
+    * [python & pip](https://formulae.brew.sh/formula/python@3.9#default)
 * [go version manager](https://github.com/moovweb/gvm)
 * [desk controller](https://github.com/rhyst/idasen-controller)
 

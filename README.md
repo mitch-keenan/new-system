@@ -21,6 +21,8 @@ A collection of resources I use for getting a new system set-up
 * [go version manager](https://github.com/moovweb/gvm)
 * [desk controller](https://github.com/rhyst/idasen-controller)
 * [NordVPN](https://my.nordaccount.com/downloads/nordvpn/)
+* [steam](https://store.steampowered.com/about/)
+* [spotify](https://www.spotify.com/download)
 
 ### Mac Specific
 

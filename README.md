@@ -17,21 +17,13 @@ A collection of resources I use for getting a new system set-up
 * [zsh](https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH#install-and-set-up-zsh-as-default)
 * [oh-my-zsh](https://github.com/ohmyzsh/ohmyzsh#basic-installation)
 * [homebrew](https://brew.sh/)
-    * then run `cd .config && brew bundle` to install from [dotfiles brewfile](https://github.com/mitch-keenan/dotfiles/tree/master/.config/Brewfile)
-    * [tldr](https://formulae.brew.sh/formula/tldr#default)
-    * [gnu-sed](https://formulae.brew.sh/formula/gnu-sed) (if on mac)
-    * [nvm](https://formulae.brew.sh/formula/nvm)
-    * [the fuck](https://formulae.brew.sh/formula/thefuck)
-    * [jq](https://formulae.brew.sh/formula/jq)
-    * [python & pip](https://formulae.brew.sh/formula/python@3.9#default)
-    * [nscpot](https://github.com/hrkfdn/ncspot#installation) - terminal spotify client
+    * then run `cd .config && brew bundle` to install brew utilities frim [dotfiles brewfile](https://github.com/mitch-keenan/dotfiles/tree/master/.config/Brewfile)
 * [go version manager](https://github.com/moovweb/gvm)
 * [desk controller](https://github.com/rhyst/idasen-controller)
 
 ### Mac Specific
 
 * [iTerm2](https://iterm2.com/)
-* [fig](https://fig.io/) - terminal enhancer - `brew install fig`
 * [alfred](https://www.alfredapp.com/)
 * [bluetility bluetooth helper](https://github.com/jnross/Bluetility)
 * [EasyRes](https://apps.apple.com/us/app/easyres/id688211836?mt=12)

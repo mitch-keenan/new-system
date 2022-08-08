@@ -18,6 +18,8 @@ A collection of resources I use for getting a new system set-up
 * [oh-my-zsh](https://github.com/ohmyzsh/ohmyzsh#basic-installation)
 * [homebrew](https://brew.sh/)
     * then run `cd .config && brew bundle` to install brew utilities frim [dotfiles brewfile](https://github.com/mitch-keenan/dotfiles/tree/master/.config/Brewfile)
+* [Arctype SQL Client](https://arctype.com/)
+* [Postman](https://www.postman.com/downloads/)
 * [go version manager](https://github.com/moovweb/gvm)
 * [desk controller](https://github.com/rhyst/idasen-controller)
 * [NordVPN](https://my.nordaccount.com/downloads/nordvpn/)

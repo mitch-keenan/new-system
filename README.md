@@ -1,6 +1,10 @@
 # new-system
 A collection of resources I use for getting a new system set-up
 
+## Auth with github
+
+* [mac instructions](https://gist.github.com/jonjack/bf295d4170edeb00e96fb158f9b1ba3c)
+
 ## dotfiles
 
 * [dotfiles](https://github.com/mitch-keenan/dotfiles)

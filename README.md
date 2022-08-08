@@ -13,7 +13,7 @@ A collection of resources I use for getting a new system set-up
 
 * [Fira Code Font](https://github.com/tonsky/FiraCode)
 * [VS Code](https://code.visualstudio.com/)
-   * Install "code" command with SUPER+SHIFT+P --> Search: `Shell Command: Install code in PATH` and confirm
+   * Install `code` command with `SUPER+SHIFT+P` --> `Shell Command: Install code in PATH`
 * [zsh](https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH#install-and-set-up-zsh-as-default)
 * [oh-my-zsh](https://github.com/ohmyzsh/ohmyzsh#basic-installation)
 * [homebrew](https://brew.sh/)

@@ -17,6 +17,7 @@ A collection of resources I use for getting a new system set-up
 * [zsh](https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH#install-and-set-up-zsh-as-default)
 * [oh-my-zsh](https://github.com/ohmyzsh/ohmyzsh#basic-installation)
 * [homebrew](https://brew.sh/)
+    * then run `cd .config && brew bundle` to install from [dotfiles brewfile](https://github.com/mitch-keenan/dotfiles/tree/master/.config/Brewfile)
     * [tldr](https://formulae.brew.sh/formula/tldr#default)
     * [gnu-sed](https://formulae.brew.sh/formula/gnu-sed) (if on mac)
     * [nvm](https://formulae.brew.sh/formula/nvm)

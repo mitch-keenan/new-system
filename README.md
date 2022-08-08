@@ -25,6 +25,7 @@ A collection of resources I use for getting a new system set-up
 
 * [iTerm2](https://iterm2.com/)
 * [alfred](https://www.alfredapp.com/)
+* [divvy](https://mizage.com/divvy/)
 * [Fig](https://fig.io/) - `brew install --cask fig`
 * [bluetility bluetooth helper](https://github.com/jnross/Bluetility)
 * [EasyRes](https://apps.apple.com/us/app/easyres/id688211836?mt=12)

@@ -20,6 +20,7 @@ A collection of resources I use for getting a new system set-up
     * then run `cd .config && brew bundle` to install brew utilities frim [dotfiles brewfile](https://github.com/mitch-keenan/dotfiles/tree/master/.config/Brewfile)
 * [go version manager](https://github.com/moovweb/gvm)
 * [desk controller](https://github.com/rhyst/idasen-controller)
+* [NordVPN](https://my.nordaccount.com/downloads/nordvpn/)
 
 ### Mac Specific
 

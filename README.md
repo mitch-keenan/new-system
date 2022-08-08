@@ -24,7 +24,7 @@ A collection of resources I use for getting a new system set-up
 ### Mac Specific
 
 * [iTerm2](https://iterm2.com/)
-* [fig](https://fig.io/) - terminal enhancer
+* [fig](https://fig.io/) - terminal enhancer - `brew install fig`
 * [alfred](https://www.alfredapp.com/)
 * [bluetility bluetooth helper](https://github.com/jnross/Bluetility)
 * [EasyRes](https://apps.apple.com/us/app/easyres/id688211836?mt=12)

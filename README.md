@@ -34,6 +34,7 @@ A collection of resources I use for getting a new system set-up
 * [Fig](https://fig.io/) - `brew install --cask fig`
 * [bluetility bluetooth helper](https://github.com/jnross/Bluetility)
 * [EasyRes](https://apps.apple.com/us/app/easyres/id688211836?mt=12)
+* [RightZoom](https://www.blazingtools.com/right_zoom_mac.html)
 
 ## Random
 

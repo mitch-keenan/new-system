@@ -28,6 +28,8 @@ A collection of resources I use for getting a new system set-up
 
 ### Mac Specific
 
+
+* Move screenshots location to home folder: `mkdir ~/screenshots && defaults write com.apple.screencapture location ~/screenshots`
 * [iTerm2](https://iterm2.com/)
 * [alfred](https://www.alfredapp.com/)
 * [divvy](https://mizage.com/divvy/)
